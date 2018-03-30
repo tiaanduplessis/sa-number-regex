@@ -1,5 +1,7 @@
 
 # sa-number-regex
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/sa-number-regex.svg)](https://greenkeeper.io/)
 [![package version](https://img.shields.io/npm/v/sa-number-regex.svg?style=flat-square)](https://npmjs.org/package/sa-number-regex)
 [![package downloads](https://img.shields.io/npm/dm/sa-number-regex.svg?style=flat-square)](https://npmjs.org/package/sa-number-regex)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
